@@ -1,4 +1,5 @@
 # Quiet theme for oh-my-zsh
+# https://github.com/slwen/quiet-theme
 PROMPT='%{$fg[blue]%}%c › %{$reset_color%}'
 
 RPROMPT='%{$fg[yellow]%}$(git_prompt_info)%{$reset_color%}$(git_prompt_status)%{$reset_color%}'
